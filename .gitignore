@@ -1,3 +1,6 @@
+# custom gitignore
+modules/
+
 *.bak
 .gitattributes
 .last_checked
